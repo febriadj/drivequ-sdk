@@ -1,0 +1,38 @@
+{
+  "name": "drivequ",
+  "version": "1.0.0",
+  "description": "Open source SDK for DriveQu (storage manager)",
+  "main": "index.js",
+  "engines": {
+    "npm": ">=8.5.5",
+    "node": ">=16.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febriadj/drivequ.git"
+  },
+  "keywords": [
+    "drivequ-sdk",
+    "drivequ",
+    "storage-manager",
+    "open-source",
+    "sdk",
+    "file-manager",
+    "cloud",
+    "cloud-storage"
+  ],
+  "author": "Febriadji <iamfebriadji@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/febriadj/drivequ/issues"
+  },
+  "homepage": "https://github.com/febriadj/drivequ#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
